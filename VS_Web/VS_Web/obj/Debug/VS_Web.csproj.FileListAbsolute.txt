@@ -1,0 +1,12 @@
+D:\Projectos\VS_Web\VS_Web\bin\Debug\VS_Web.exe.config
+D:\Projectos\VS_Web\VS_Web\bin\Debug\VS_Web.exe
+D:\Projectos\VS_Web\VS_Web\bin\Debug\VS_Web.pdb
+D:\Projectos\VS_Web\VS_Web\bin\Debug\Guna.UI2.dll
+D:\Projectos\VS_Web\VS_Web\obj\Debug\VS_Web.csprojResolveAssemblyReference.cache
+D:\Projectos\VS_Web\VS_Web\obj\Debug\VS_Web.Form1.resources
+D:\Projectos\VS_Web\VS_Web\obj\Debug\VS_Web.Properties.Resources.resources
+D:\Projectos\VS_Web\VS_Web\obj\Debug\VS_Web.csproj.GenerateResource.Cache
+D:\Projectos\VS_Web\VS_Web\obj\Debug\VS_Web.exe
+D:\Projectos\VS_Web\VS_Web\obj\Debug\VS_Web.pdb
+D:\Projectos\VS_Web\VS_Web\bin\Debug\Microsoft.TeamFoundation.WorkItemTracking.Client.DataStoreLoader.dll
+D:\Projectos\VS_Web\VS_Web\bin\Debug\Microsoft.WITDataStore.dll

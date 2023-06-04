@@ -1,0 +1,10 @@
+D:\Projectos\VS_CalculadoraCientifica\VS_CalculadoraCientifica\bin\Debug\VS_CalculadoraCientifica.exe.config
+D:\Projectos\VS_CalculadoraCientifica\VS_CalculadoraCientifica\bin\Debug\VS_CalculadoraCientifica.exe
+D:\Projectos\VS_CalculadoraCientifica\VS_CalculadoraCientifica\bin\Debug\VS_CalculadoraCientifica.pdb
+D:\Projectos\VS_CalculadoraCientifica\VS_CalculadoraCientifica\bin\Debug\Guna.UI2.dll
+D:\Projectos\VS_CalculadoraCientifica\VS_CalculadoraCientifica\obj\Debug\VS_CalculadoraCientifica.csprojResolveAssemblyReference.cache
+D:\Projectos\VS_CalculadoraCientifica\VS_CalculadoraCientifica\obj\Debug\VS_CalculadoraCientifica.Properties.Resources.resources
+D:\Projectos\VS_CalculadoraCientifica\VS_CalculadoraCientifica\obj\Debug\VS_CalculadoraCientifica.csproj.GenerateResource.Cache
+D:\Projectos\VS_CalculadoraCientifica\VS_CalculadoraCientifica\obj\Debug\VS_CalculadoraCientifica.exe
+D:\Projectos\VS_CalculadoraCientifica\VS_CalculadoraCientifica\obj\Debug\VS_CalculadoraCientifica.pdb
+D:\Projectos\VS_CalculadoraCientifica\VS_CalculadoraCientifica\obj\Debug\VS_CalculadoraCientifica.VS_CalculadoraCientifica.resources
